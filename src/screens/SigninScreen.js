@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from "react-native";
 
 const SigninScreen = () => {
   return (
-    <View>
+    <View style={{ marginTop: 50 }}>
       <Text style={{ fontSize: 48 }}>SigninScreen</Text>
     </View>
   );
